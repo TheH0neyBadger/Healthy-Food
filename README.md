@@ -1,13 +1,13 @@
 App description:
- Healthy-Food, this app will display information of food which allow user to save interested information as well as select tag of interested food categories.
+ Healthy-Food, this app will display information of food which allow user to save interested information as well as   select tag of interested food categories.
  
 User Stories:
  App icon: specific to Food, intelligent, healthy
  
  Sign-in page:
- Allow user to login with user name(email) and password
- Allow user to remember login
- (optional) Use RKDropdownAlert  to display alert when user login with wrong password and username
+  Allow user to login with user name(email) and password
+  Allow user to remember login
+  (optional) Use RKDropdownAlert  to display alert when user login with wrong password and username
  
  Sign-up page:
  Allow user to register with: user name and password
