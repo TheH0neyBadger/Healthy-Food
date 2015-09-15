@@ -5,9 +5,9 @@ User Stories:
  App icon: specific to Food, intelligent, healthy
  
  Sign-in page:
-  Allow user to login with user name(email) and password
-  Allow user to remember login
-  (optional) Use RKDropdownAlert  to display alert when user login with wrong password and username
+ Allow user to login with user name(email) and password
+ Allow user to remember login
+ (optional) Use RKDropdownAlert  to display alert when user login with wrong password and username
  
  Sign-up page:
  Allow user to register with: user name and password
