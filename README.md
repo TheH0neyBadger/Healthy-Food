@@ -8,12 +8,15 @@ User Stories:
  Sign-in page:
  
 •	Allow user to login with user name(email) and password
+
 •	Allow user to remember login
+
 •	(optional) Use RKDropdownAlert  to display alert when user login with wrong password and username
  
  Sign-up page:
  
 •	Allow user to register with: user name and password
+
 •	(optional) Sign-up with Facebook, type password again, First name and last name, background with picture
 
  Select tag page:
@@ -23,39 +26,64 @@ User Stories:
  Exploration page:
  
 •	Display information of food ingredient and healthy information
+
 •	Required: thumbnail, name of the food, brief description, rating
+
 •	Have search section in navigation bar
+
 •	Be able to pull to refresh
 
 Details page:
 
 •	Image of the Food
+
 •	Tittle of the food
+
 •	Price with unit of food (optional on different currency and in different unit)
+
 •	(optional) Select list of location
+
 •	Ingredient of food
+
 •	Healthy purpose: what will bring you
+
 •	Suggestion
+
 •	How to use
+
 •	Name of of the person who post this Food category
-•	Create new Food ingredient page:
+
+Create new Food ingredient page:
+
 •	Image of the Food
+
 •	Tittle of the food
+
 •	Price with unit of food (optional on different currency and in different unit)
+
 •	(optional)Select list of location
+
 •	Ingredient of food
+
 •	Healthy purpose: what will bring you
+
 •	Suggestion
+
 •	How to use
+
 •	Name of of the person who post this Food category
  
  Profile page:
  
 •	User information
+
 •	Edit tags
+
 •	Avatar
+
  
  Navigation section: 
+ 
 •	User Setting, Notification, Save Link, Follower, Latest, recipe (lowcab, party, vegetarian, lose                weight, detox, daily meal, check save link on facebook for more)
 
 Note: we will use AMSlideMenu for user setting (optional)
